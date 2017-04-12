@@ -5,8 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 namespace mvc.Controllers
-{
-    public class HomeController : Controller
+{    public class HomeController : Controller
     {
         public IActionResult Index()
         {
